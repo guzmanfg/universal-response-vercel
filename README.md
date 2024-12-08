@@ -1,21 +1,7 @@
-# React + TypeScript + Vite
+# Universal Response (vercel version)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an open source project in Next to provide form support and samples to HTML students, specifically about forms.
 
-While this project uses React, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+This platform will response to /form requests with the data provided by the forms. 
 
-## Deploy Your Own
-
-Deploy your own Vite project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite-react&template=vite-react)
-
-_Live Example: https://vite-react-example.vercel.app_
-
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
+Feel free to add your comments or PR to improve it. 
