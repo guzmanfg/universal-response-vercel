@@ -18,7 +18,7 @@ export default function Home() {
         </Link>
         <Link
           className="rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 shadow-sm shadow-sm hover:bg-gray-50 sm:ml-3 sm:w-auto border"
-          href="https://github.com/guzmanfg/universal-response"
+          href="https://github.com/guzmanfg/universal-response-vercel"
           target="_blank"
         >
           Source on GitHub
